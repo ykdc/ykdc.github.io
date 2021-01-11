@@ -2,7 +2,7 @@
 
 namespace MyApp
 {
-    class Program
+    class Hello
     {
         static void Main(string[] args)
         {
