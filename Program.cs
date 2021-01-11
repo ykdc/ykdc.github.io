@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Hello World program in C# for MLH LHD 2021
 namespace MyApp
 {
     class Hello
